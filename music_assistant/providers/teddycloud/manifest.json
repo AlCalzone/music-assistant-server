@@ -1,0 +1,9 @@
+{
+  "type": "player",
+  "domain": "teddycloud",
+  "name": "Teddycloud",
+  "description": "Player provider for Tonieboxes via Teddycloud.",
+  "codeowners": ["@alcalzone"],
+  "requirements": [],
+  "documentation": "Link to the documentation on the music-assistant.io helppage (may be added later)."
+}
